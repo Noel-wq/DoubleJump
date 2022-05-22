@@ -1,0 +1,4 @@
+name: DoubleJump
+version: '${project.version}'
+main: ch.browni.doublejump.DoubleJump
+api-version: 1.16
